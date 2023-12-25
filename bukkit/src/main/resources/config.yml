@@ -91,7 +91,7 @@ change-prefix-suffix-in-tablist:
 
 tablist-object-type:
 
-  type: ping
+  type: Lifesteal_Smp___ 
 
   refresh-interval: 3
   custom-value: "%level%"
